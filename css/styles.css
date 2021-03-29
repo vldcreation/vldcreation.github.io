@@ -10082,6 +10082,11 @@ p.lead {
   background-color: #bd5d38;
 }
 
+.embed-portfolio{
+  align-items: center;
+  margin-top: 2.0rem;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
